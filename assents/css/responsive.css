@@ -1,0 +1,86 @@
+/* PC */
+@media (min-width: 64em){
+    
+}
+/* Tablet & Mobile */
+@media (max-width: 63.9375em) {
+    .place-info .buy-tickets-btn,
+    .contact-content .contact-btn{
+        padding: 16px 16px;
+    }
+    .contact-content .contact-input{
+        padding: 16px 8px;
+    }
+    .contact-info p{
+        line-height: 2;
+    }
+    .footer-content i{
+        font-size: 36px;
+    }
+    .footer-content a{
+        margin: 0 8px;
+    }
+    .security a{
+        display: inline-block;
+        padding: 24px 0;
+    }
+}
+/* Tablet */
+@media (min-width: 46.25em) and (max-width: 63.9375em){
+
+}
+/* Mobile */
+@media (max-width:  46.1875em) {
+    #header{
+        overflow: hidden;
+    }
+    .search-icon{
+        display: none;
+    }
+    #header .menu-icon{
+        display: inline-block;
+    }
+    #nav {
+        display: block;
+    }
+    #nav>li{
+        display: block;
+    }
+    #nav li a{
+        display: block;
+    }
+    #nav li:first-child{
+        display: inline-block;
+    }
+    #nav .subnav{
+        position: initial;
+    }
+    #nav .subnav li{
+        width: 100%;
+    }
+    #nav .subnav li a{
+        padding: 4px 32px;
+        background-color: #333;
+        color: #fff;
+    }
+    #slider .text-content{
+        display: none;
+    }
+    .contact-info{
+        padding-bottom: 16px;
+    }
+
+    .col {
+        float: inherit;
+    }
+    .s-col-full,
+    .s-full-width{
+        width: 100% !important;
+    }
+
+    .s-mt-8{
+        margin-top: 8px;
+    }
+
+
+}
