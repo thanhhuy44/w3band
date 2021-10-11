@@ -147,7 +147,7 @@ html{
     margin-top: 48px;
     width: 100%;
     padding-top: 50%;
-    background: url(w3.band/assents/img/la.jpg) top center / cover no-repeat;
+    background: url(assents/img/la.jpg) top center / cover no-repeat;
 }
 #slider .text-content{
     position: absolute;
@@ -314,7 +314,7 @@ html{
 .map-section{
     width: 100%;
     padding-top: 50%;
-    background: url(w3.band/assents/img/map.jpg) top center / cover no-repeat ;
+    background: url(assents/img/map.jpg) top center / cover no-repeat ;
 }
 
 #footer {
